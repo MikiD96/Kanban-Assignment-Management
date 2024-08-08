@@ -1,7 +1,8 @@
 Kanban Board with Three-Tier Architecture
+
 This project is a Kanban board implementation written in C# that showcases the use of a three-tier architecture. The three-tier architecture separates the application into three distinct layers: presentation layer, business logic layer, and data access layer. The project also includes a small frontend implementation to provide a user interface for interacting with the Kanban board.
 
-Features
+Features 
 Kanban board: The application allows users to create and manage tasks on a Kanban board, which consists of three columns: "To Do," "In Progress," and "Done." Users can move tasks between these columns by dragging and dropping them.
 Three-tier architecture: The project demonstrates the proper separation of concerns by implementing a three-tier architecture. Each layer has its responsibilities and interacts with the other layers using well-defined interfaces.
 Frontend implementation: The project includes a simple frontend implementation to provide a user-friendly interface for interacting with the Kanban board. The frontend is designed using HTML, CSS, and JavaScript.
